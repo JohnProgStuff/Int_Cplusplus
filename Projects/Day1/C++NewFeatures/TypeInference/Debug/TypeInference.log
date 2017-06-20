@@ -1,0 +1,4 @@
+﻿  TypeInference.cpp
+c:\users\johnpetersen\desktop\john_c++\projects\day1\c++newfeatures\typeinference\typeinference.cpp(127): warning C4101: 'j': unreferenced local variable
+  TypeInference.vcxproj -> C:\Users\johnpetersen\Desktop\John_C++\Projects\Day1\C++NewFeatures\Debug\TypeInference.exe
+  TypeInference.vcxproj -> C:\Users\johnpetersen\Desktop\John_C++\Projects\Day1\C++NewFeatures\Debug\TypeInference.pdb (Partial PDB)

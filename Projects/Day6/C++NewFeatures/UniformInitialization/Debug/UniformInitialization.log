@@ -1,0 +1,4 @@
+﻿  UniformInitialization.cpp
+d:\john_c++\projects\day2\c++newfeatures\uniforminitialization\uniforminitialization.cpp(58): warning C4930: 'Person person4(void)': prototyped function not called (was a variable definition intended?)
+  UniformInitialization.vcxproj -> D:\John_C++\Projects\Day2\C++NewFeatures\Debug\UniformInitialization.exe
+  UniformInitialization.vcxproj -> D:\John_C++\Projects\Day2\C++NewFeatures\Debug\UniformInitialization.pdb (Partial PDB)

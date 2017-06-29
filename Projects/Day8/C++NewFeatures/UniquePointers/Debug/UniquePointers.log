@@ -1,0 +1,9 @@
+﻿  UniquePointers.cpp
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.10.25017\include\memory(2054): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  c:\users\johnpetersen\downloads\int_cplusplus\projects\day7\c++newfeatures\uniquepointers\uniquepointers.cpp(29): note: see reference to function template instantiation 'std::unique_ptr<Hen,std::default_delete<_Ty>> std::make_unique<Hen,int,double>(int &&,double &&)' being compiled
+          with
+          [
+              _Ty=Hen
+          ]
+  UniquePointers.vcxproj -> C:\Users\johnpetersen\Downloads\Int_Cplusplus\Projects\Day7\C++NewFeatures\Debug\UniquePointers.exe
+  UniquePointers.vcxproj -> C:\Users\johnpetersen\Downloads\Int_Cplusplus\Projects\Day7\C++NewFeatures\Debug\UniquePointers.pdb (Partial PDB)
